@@ -1,21 +1,26 @@
 # 👋 Hello, I'm Ahmed Ibrahim
 
 ### 🚀 Senior Software Architect & Full-Stack Mobile Engineer
-Specializing in **High-Performance C++ Architecture**, **Enterprise Flutter Mobile Development**, and **Clean Distributed Systems**.
+Specializing in **Enterprise Flutter Mobile Development**, **High-Performance C++ Architecture**, and **Clean Distributed Systems**.
 
 ---
 
 ## 💻 Core Engineering Toolkit
 
 <p align="left">
-  <a href="#cpp-section"><img src="https://img.shields.io/badge/C++17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Systems" /></a>
+  <!-- 1. Mobile Suite (Flutter & Dart) -->
   <a href="#flutter-section"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Apps" /></a>
   <a href="#flutter-section"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
-  <a href="#backend-section"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python & Bots" /></a>
-  <a href="#cpp-section"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake Build" /></a>
-  <a href="#flutter-section"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Backend" /></a>
-  <a href="#flutter-section"><img src="https://img.shields.io/badge/Clean%20Architecture-teal?style=for-the-badge" alt="Clean Architecture" /></a>
   <a href="#flutter-section"><img src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-black?style=for-the-badge" alt="BLoC Cubit" /></a>
+  <a href="#flutter-section"><img src="https://img.shields.io/badge/Clean%20Architecture-teal?style=for-the-badge" alt="Clean Architecture" /></a>
+  <a href="#flutter-section"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Backend" /></a>
+
+  <!-- 2. C++ Systems Engineering -->
+  <a href="#cpp-section"><img src="https://img.shields.io/badge/C++17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Systems" /></a>
+  <a href="#cpp-section"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake Build" /></a>
+
+  <!-- 3. Autonomous Cloud & Python -->
+  <a href="#backend-section"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python & Bots" /></a>
 </p>
 
 ---
