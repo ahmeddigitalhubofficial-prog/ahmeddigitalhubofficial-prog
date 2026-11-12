@@ -5,39 +5,53 @@ Specializing in **Enterprise Flutter Mobile Development**, **High-Performance C+
 
 ---
 
-## 💻 Core Engineering Toolkit
+## 💻 Core Engineering Toolkit & Architectural Matrix
 
-<p align="left">
-  <!-- 1. Mobile Suite (Flutter & Dart) -->
-  <a href="#flutter-section"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Apps" /></a>
-  <a href="#flutter-section"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
-  <a href="#flutter-section"><img src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-black?style=for-the-badge" alt="BLoC Cubit" /></a>
-  <a href="#flutter-section"><img src="https://img.shields.io/badge/Clean%20Architecture-teal?style=for-the-badge" alt="Clean Architecture" /></a>
-  <a href="#flutter-section"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Backend" /></a>
-
-  <!-- 2. C++ Systems Engineering -->
-  <a href="#cpp-section"><img src="https://img.shields.io/badge/C++17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Systems" /></a>
-  <a href="#cpp-section"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake Build" /></a>
-
-  <!-- 3. Autonomous Cloud & Python -->
-  <a href="#backend-section"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python & Bots" /></a>
-</p>
+<table>
+  <tr>
+    <td width="240"><b>📱 Mobile & Architecture</b></td>
+    <td>
+      <a href="#mobile-section"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+      <a href="#mobile-section"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+      <a href="#mobile-section"><img src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-black?style=for-the-badge" alt="BLoC Cubit" /></a>
+      <a href="#mobile-section"><img src="https://img.shields.io/badge/Clean%20Architecture-teal?style=for-the-badge" alt="Clean Architecture" /></a>
+      <a href="#mobile-section"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚡ Systems & Algorithmic Engines</b></td>
+    <td>
+      <a href="#cpp-section"><img src="https://img.shields.io/badge/C++17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Systems" /></a>
+      <a href="#cpp-section"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake Build" /></a>
+      <a href="#cpp-section"><img src="https://img.shields.io/badge/Data%20Structures-4A154B?style=for-the-badge" alt="Data Structures" /></a>
+      <a href="#cpp-section"><img src="https://img.shields.io/badge/Audio%20DSP-2B5797?style=for-the-badge" alt="Audio DSP" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 Cloud & Autonomous Daemons</b></td>
+    <td>
+      <a href="#backend-section"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python & Bots" /></a>
+      <a href="#backend-section"><img src="https://img.shields.io/badge/Telegram%20Bot%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" /></a>
+      <a href="#backend-section"><img src="https://img.shields.io/badge/Render%20Cloud-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render Cloud" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<span id="flutter-section"></span>
+<span id="mobile-section"></span>
 ## 📱 1. Mobile & Cross-Platform Suite (Flutter & Dart)
 
-> **Enterprise Mobile Engineering**: Clean Architecture, BLoC/Cubit, Riverpod, Local-First Persistence, and Real-Time 3D Rendering.  
-> 🔗 *[Browse all Mobile Repositories](https://github.com/ahmeddigitalhubofficial-prog?tab=repositories&q=app)*
+> **Enterprise Mobile Engineering**: Clean Architecture, BLoC/Cubit, Riverpod, Local-First Persistence, On-Device Intelligence, and Real-Time Systems.  
+> 🔗 *[Browse Public Mobile Repository](https://github.com/ahmeddigitalhubofficial-prog/sakan-alrooh-quran-app)*
 
 * **[Sakan Al-Rooh (سكن الروح / نور الهدى)](https://github.com/ahmeddigitalhubofficial-prog/sakan-alrooh-quran-app)** 🕋  
-  *Production Islamic companion app featuring Uthmani Quran reader, GPS-guided Qibla direction finder, 3D interactive Sebha, and automated prayer time calculations.*  
+  *Production-ready Islamic companion app featuring an Uthmani Quran reader, GPS-guided Qibla direction finder, interactive 3D Sebha, and automated prayer time calculations.*  
   `Flutter` • `Clean Architecture` • `Local-First Hive` • `Background Audio` • `Google Play Production`
 
-* **[Nexus 3D Interactive Storyscapes](https://github.com/ahmeddigitalhubofficial-prog/nexus-3d-interactive-storyscapes)** 🎮  
-  *Next-generation branching narrative engine with embedded native 3D scene visualizers, decision tree flowcharts, and glassmorphic UI.*  
-  `Flutter` • `BLoC / Cubit` • `Native 3D Views` • `Glassmorphism Design`
+* **Grow Within** 🌿 *(Commercial Startup IP / Private Enterprise Repository)*  
+  *Holistic personal growth and gamified multi-academy learning platform with on-device psychometrics, STAR executive interview simulators, dual speech engines (STT/TTS), and zero-cost cloud quota safeguards.*  
+  `Flutter` • `Clean Architecture` • `BLoC / Cubit & Riverpod` • `On-Device AI` • `Proprietary Enterprise IP`
 
 ---
 
@@ -74,15 +88,9 @@ Specializing in **Enterprise Flutter Mobile Development**, **High-Performance C+
   *Autonomous executive Telegram bot delivering health checks, system metrics, and intelligent operational scheduling.*  
   `Python 3.12` • `Telegram Bot API` • `Render Cloud Deployment` • `Live Sentinel`
 
-* **[Sakan Al-Rooh Content Automation Bot](https://github.com/ahmeddigitalhubofficial-prog/sakan-alrooh-bot)** 🕌 *(Private)*  
-  *Automated media scheduling and religious content publishing engine.*  
-  `Python` • `Content Automation` • `Cloud Daemons`
-
----
-
-## 🔒 Flagship Commercial Venture
-
-* **Grow Within** 🌿 *(Commercial IP / Private)*: Holistic personal growth, gamified multi-academy learning platform with on-device AI psychometrics, STAR executive interview simulators, and dual speech engines.
+* **[Sakan Al-Rooh Content Automation Bot](https://github.com/ahmeddigitalhubofficial-prog/sakan-alrooh-bot)** 🕌 *(Private / Live on Render 🟢)*  
+  *Automated media scheduling and religious content publishing engine deployed as a 24/7 cloud daemon.*  
+  `Python` • `Content Automation` • `Render Cloud Deployment` • `24/7 Live Daemon`
 
 ---
 
